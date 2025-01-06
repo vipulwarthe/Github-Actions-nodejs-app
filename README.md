@@ -41,3 +41,10 @@ mutation{
   }
 }
 
+* create 1 ec2 instance with t3.micro/ubuntu 22.04/sg-all traffic/20gb
+
+* install docker
+
+* create self hosted runner and run all the commands on ec2 instance.
+  
+
